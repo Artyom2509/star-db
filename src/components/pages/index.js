@@ -1,0 +1,5 @@
+import PeoplesPage from './peoples-page';
+import PlanetsPage from './planets-page';
+import StarshipsPage from './starships-page';
+
+export { PeoplesPage, PlanetsPage, StarshipsPage };
